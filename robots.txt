@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://boyernathan39000-max.github.io/la-varine/sitemap.xml

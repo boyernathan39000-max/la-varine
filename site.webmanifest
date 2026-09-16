@@ -1,0 +1,14 @@
+{
+  "name": "Rest'O Bar La Varine",
+  "short_name": "La Varine",
+  "description": "Cuisine française et africaine faite maison, chambres d'hôtes dans le Jura.",
+  "lang": "fr",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#FAF5EC",
+  "theme_color": "#15352A",
+  "icons": [
+    { "src": "assets/img/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "assets/img/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
