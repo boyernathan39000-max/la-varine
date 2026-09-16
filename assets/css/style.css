@@ -364,7 +364,7 @@ address{font-style:normal;line-height:1.7;margin-bottom:1rem;color:var(--encre-2
 .resa__f input:focus,.resa__f textarea:focus{outline:0;border-color:var(--ocre);background:#fff}
 .resa__f input:user-invalid{border-color:var(--terre-2)}
 .resa__f .btn{margin-top:.4rem}
-.resa__legal{font-size:.78rem;color:rgba(250,245,236,.52);text-align:center;line-height:1.5}
+.resa__legal{font-size:.78rem;color:rgba(250,245,236,.66);text-align:center;line-height:1.5}
 
 /* ─── Pied de page ─── */
 .ftr{background:#0F2620;color:rgba(250,245,236,.74);padding:clamp(3rem,7vw,5rem) var(--gut) calc(clamp(2rem,4vw,3rem) + env(safe-area-inset-bottom))}
@@ -379,7 +379,7 @@ address{font-style:normal;line-height:1.7;margin-bottom:1rem;color:var(--encre-2
 .ftr__tel{margin-top:.9rem}
 .ftr__tel a{text-decoration:none;color:var(--ocre);font-weight:620;transition:color .25s}
 .ftr__tel a:hover{color:var(--creme)}
-.ftr__c{margin-top:1.2rem;opacity:.62}
+.ftr__c{margin-top:1.2rem;opacity:.85}
 
 /* ─── Barre mobile ─── */
 .bar{display:none;position:fixed;left:0;right:0;bottom:0;z-index:850;background:rgba(15,38,32,.97);backdrop-filter:blur(12px);border-top:1px solid rgba(250,245,236,.14);padding-bottom:env(safe-area-inset-bottom)}
