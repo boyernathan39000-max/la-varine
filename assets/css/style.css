@@ -374,8 +374,11 @@ address{font-style:normal;line-height:1.7;margin-bottom:1rem;color:var(--encre-2
 .ftr__nav{display:flex;flex-direction:column;gap:.62rem;font-size:.93rem}
 .ftr__nav a{text-decoration:none;transition:color .25s;width:fit-content}
 .ftr__nav a:hover{color:var(--ocre)}
-.ftr__legal{font-size:.82rem;line-height:1.7}
+.ftr__legal{font-size:.88rem;line-height:1.7}
 .ftr__legal b{color:rgba(250,245,236,.92);font-weight:640}
+.ftr__tel{margin-top:.9rem}
+.ftr__tel a{text-decoration:none;color:var(--ocre);font-weight:620;transition:color .25s}
+.ftr__tel a:hover{color:var(--creme)}
 .ftr__c{margin-top:1.2rem;opacity:.62}
 
 /* ─── Barre mobile ─── */
